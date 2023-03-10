@@ -1,0 +1,14 @@
+AddStep:스탭 추가
+ConnectStep:스탭 연결
+DelStep:스탭 삭제
+Play:재생
+PlayFromNow:여기서 시작
+SaveStep:스텝 저장
+AddStepValue:스탭에 값 추가
+Position:위치
+Time:시간
+Size:크기
+Start:시작
+End:끝
+Target:목표 시간
+Second:초
