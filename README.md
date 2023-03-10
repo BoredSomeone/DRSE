@@ -1,12 +1,9 @@
 # DRSE
-<<<<<<< HEAD
-DRSE is Really Simple Editor
-=======
 "DRSE" is Really Simple Editor that can make step like DanceRush Stardom.
 
 The focus was on the Making and Playing of steps rather than game function.
 
-한국어 설명은 여기로 -> <https://github.com/BoredSomeone/DRSE/blob/main/README_Korean.md>
+한국어 설명은 여기로 -> <https://github.com/BoredSomeone/DRSE/blob/master/README_Korean.md>
 
 ### Goal of the project
 The goal of the project is to create and play steps that are similar to Dancerush Stardom.
@@ -43,4 +40,3 @@ I'm not good at English, so there are many comments in Korean. And there will be
 
 # Licenses
 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
->>>>>>> c118cac (First commit)

@@ -3,7 +3,7 @@ DRSE는 DanceRush Stardom과 유사한 스탭을 제작할 수 있는 매우 심
 
 게임 기능 보다는 스탭의 제작과 실행에 중점을 두었습니다.
 
-English is here -> <https://github.com/BoredSomeone/DRSE/blob/main/README.md>
+English is here -> <https://github.com/BoredSomeone/DRSE/blob/master/README.md>
 
 ### 프로젝트의 목표
 Dancerush Stardom과 유사한 모습의 스탭 제작과 재생이 가능한 프로그램이 목표입니다.
